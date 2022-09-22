@@ -1,4 +1,21 @@
 .box {
     display: flex;
+    margin: auto;
     padding: 10px;
+    width: fit-content;
+    border-style: outset;
+    border-color: deeppink;
+    border-width: 5px;
+    border-radius: 30px
  }
+
+ .innerBox {
+    border-style: outset;
+    border-radius: 30px;
+    border-width: 3px;
+    border-color: coral;
+    margin: 0 1em 0 1em;
+    padding: 0 1em 0 1em;
+    color: cyan;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
