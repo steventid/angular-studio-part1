@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+html {
+    background-image: linear-gradient(rgb(184, 81, 236), rgb(31, 2, 31));
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+.center {
+    text-align: center;
+}
